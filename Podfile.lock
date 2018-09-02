@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Ji (2.1.0):
+    - Ji/Ji (= 2.1.0)
+  - Ji/Ji (2.1.0):
+    - Ji/Ji-libxml
+  - Ji/Ji-libxml (2.1.0)
+  - RandomUserSwift (0.04)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Ji
+  - RandomUserSwift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Ji: 21946da4e13425485ddd424edfaeeced0d80ad28
+  RandomUserSwift: 11090185caf2ec0f9f17ca501945b37a4d1d83c0
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: e269cb012b75284fd628b66800b6975b1966b44a
+
+COCOAPODS: 1.3.1
